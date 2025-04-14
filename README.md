@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ayoubrazali28@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Iipq4RtzDNMHbIpuffxCZX47nkNxp3DE/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Iipq4RtzDNMHbIpuffxCZX47nkNxp3DE/view?usp=drive_link](https://drive.google.com/file/d/15J5LQprarSBEJjjw1HEUU6VvZUPaxIDz/view?usp=drive_link))
 
 - ⚡ Fun fact **I love testing… until the tests fail. Then I reconsider my life choices. 😅🧪**
 
