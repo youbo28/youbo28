@@ -66,10 +66,18 @@ I'm also expanding my expertise in **Flutter/Dart**, cloud technologies, distrib
 
 ### GitHub
 
+### GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=youbo28&show_icons=true&hide_border=true&rank_icon=github" alt="Ayoub's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=youbo28&show_icons=true&hide_border=true&theme=transparent"
+    alt="Ayoub Razali's GitHub statistics"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youbo28&layout=compact&hide_border=true" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youbo28&layout=compact&hide_border=true&theme=transparent"
+    alt="Ayoub Razali's most used languages"
+  />
 </p>
